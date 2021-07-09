@@ -49,7 +49,7 @@ p {
 body {
     background-color: #FFF5E8;
     color: #120A17;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 header {
@@ -111,7 +111,7 @@ section {
     text-align: center;
     width: 100vw;
     height: 100vh;
-    scroll-snap-align: start;
+    scroll-snap-align: center;
     overflow: hidden;
     /*snappy*/
 }
